@@ -48,9 +48,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-Developed by: HARISH.S
+Developed by: SANTHOSH KUMAR A
 
-RegisterNumber: 212224240052
+RegisterNumber: 212224230250
 
 ```VHDL
 
